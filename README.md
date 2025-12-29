@@ -6,6 +6,9 @@ Show your dynamically generated LeetCode stats on your GitHub profile or your we
 
 ---
 
+## Screenshots
+![Demo](screenshots/screencapture-leetcode-stats-card-netlify-app-2025-12-29-16_56_59.png)
+
 ## Features
 
 - Clean and simple LeetCode stats, for both `us` and `cn` sites
